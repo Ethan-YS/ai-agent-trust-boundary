@@ -4,6 +4,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+**Part of [Sprout Labs](https://ethanflow.com)** — Local-first AI memory & agent safety, built independently by Ethan (Independent Product Designer & AI Builder, since 2016).
+[ethanflow.com](https://ethanflow.com) · [LinkedIn](https://www.linkedin.com/in/ethan-ys/) · [@ethanflow_lab](https://x.com/ethanflow_lab) · [GitHub](https://github.com/Ethan-YS)
+
+---
+
 ## The Problem
 
 AI agents (OpenClaw, Manus, etc.) are gaining access to email, calendars, file systems, and messaging platforms. But they have a fundamental security flaw:
