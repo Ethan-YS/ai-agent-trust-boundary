@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Part of [Sprout Labs](https://ethanflow.com)** — Local-first AI memory & agent safety, built independently by Ethan (Independent Product Designer & AI Builder, since 2016).
+**Part of [Sprout Labs](https://ethanflow.com)**, Ethan's own product line. Product, design and engineering by one person.
 [ethanflow.com](https://ethanflow.com) · [LinkedIn](https://www.linkedin.com/in/ethan-ys/) · [@ethanflow_lab](https://x.com/ethanflow_lab) · [GitHub](https://github.com/Ethan-YS)
 
 ---
@@ -105,7 +105,7 @@ Sometimes the best product insights come from asking "why" one more time.
 
 ## About
 
-**Author:** [Ethan Y](https://ethanflow.com) — AI Product Designer exploring the intersection of design thinking, AI systems, and security architecture.
+**Author:** [Ethan](https://ethanflow.com), product builder.
 
 ## Contributing
 
